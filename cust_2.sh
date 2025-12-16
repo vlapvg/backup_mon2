@@ -5,4 +5,4 @@ cp ports.conf /etc/apache2; cp 000-default.conf /etc/apache2/sites-enabled;
 \cp mysqld.cnf /etc/mysql/mysql.conf.d; service mysql restart; 
 \cp prometheus.yml /etc/prometheus; systemctl restart prometheus; 
 \systemctl restart prometheus-node-exporter; 
-\systemctl restart grafana-server
+\systemctl restart grafana-server; ./script_source.sh
