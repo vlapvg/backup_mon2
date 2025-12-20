@@ -3,7 +3,7 @@
 # Убедитесь, что вы находитесь на WM: 192.168.1.133!
 # Устанавливаем следующие пакеты:
 # 1. nginx
-# 2. apsche2
+# 2. apache2
 # 3. mysql
 # 4. prometheus
 # 5. prometheus-node-exporter
