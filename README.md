@@ -2,13 +2,12 @@
 #######################################################################
 # Убедитесь, что вы находитесь на WM: 192.168.1.133!
 # Устанавливаем следующие пакеты:
-# 1. nginx
-# 2. apache2
-# 3. mysql
-# 4. prometheus
-# 5. prometheus-node-exporter
-# 6. filebeat
-# 7. Grafana
+# 1. apache2
+# 2. mysql
+# 3. prometheus
+# 4. prometheus-node-exporter
+# 5. filebeat
+# 6. Grafana
 # Клонируем из домашней директории пользователя (не root)
 # репозиторий backup_mon2 из GitHub по https
 # Заходим в директорию backup_mon2 на WM
